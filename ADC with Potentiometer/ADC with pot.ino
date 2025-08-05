@@ -1,0 +1,13 @@
+// C++ code
+// Code by Aadhitya G
+void setup()
+{
+  pinMode(A0, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  int x=analogRead(A0);
+    Serial.println(x);
+}

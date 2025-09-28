@@ -25,6 +25,7 @@ Communication Protocols: A beginner's look into I2C communication.
 Control Logic: Building projects like a Traffic Light Controller and implementing multitasking concepts.
 
 ✨ **Key Features**
+
 Zero Hardware Required: Learn electronics and programming entirely through simulation.
 
 Beginner-Focused: Simple, clear, and well-documented code examples.
@@ -66,28 +67,28 @@ The repository is organized into folders, each containing a specific project or 
 
 **Folder Name	Description**
 
-LED Logic	Basic digital output, blinking an LED.
+LED Logic:	Basic digital output, blinking an LED.
 
-Switch and LED	Reading a digital input from a button to control an LED.
+Switch and LED:	Reading a digital input from a button to control an LED.
 
-Pulse Width Modulation (PWM)	Fading an LED in and out using analogWrite().
+Pulse Width Modulation (PWM):	Fading an LED in and out using analogWrite().
 
-ADC with Potentiometer	Reading an analog input value from a potentiometer.
+ADC with Potentiometer:	Reading an analog input value from a potentiometer.
 
-Temperature Sensor Interfacing	Measuring temperature with a TMP36 sensor.
+Temperature Sensor Interfacing:	Measuring temperature with a TMP36 sensor.
 
-Ultrasonic Sensor Interfacing	Measuring distance with an HC-SR04 ultrasonic sensor.
+Ultrasonic Sensor Interfacing:	Measuring distance with an HC-SR04 ultrasonic sensor.
 
-PIR Sensor	Detecting motion with a Passive Infrared (PIR) sensor.
+PIR Sensor:	Detecting motion with a Passive Infrared (PIR) sensor.
 
-Serial Input	Controlling hardware by sending commands from the Serial Monitor.
+Serial Input:	Controlling hardware by sending commands from the Serial Monitor.
 
-Traffic Light Controller	A practical project simulating a traffic light sequence.
+Traffic Light Controller:	A practical project simulating a traffic light sequence.
 
-I2C Communication	An introduction to the I2C protocol for multi-device communication.
+I2C Communication:	An introduction to the I2C protocol for multi-device communication.
 
-Interrupt Handling	Using interrupts for more responsive and efficient code.
+Interrupt Handling:	Using interrupts for more responsive and efficient code.
 
-Multitasking (without RTOS)	Simulating concurrent tasks using the millis() function.
+Multitasking (without RTOS):	Simulating concurrent tasks using the millis() function.
 
-Combined Sensors Interfacing	An advanced project integrating PIR, Temperature, and Ultrasonic sensors.
+Combined Sensors Interfacing:	An advanced project integrating PIR, Temperature, and Ultrasonic sensors.
